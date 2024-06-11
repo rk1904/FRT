@@ -51,6 +51,16 @@ form{
     cursor: pointer;
 }
 
+#chatbot-container {
+    position: fixed; 
+    right: 70px; 
+    bottom: 450px; 
+    width: 200px; 
+    height: 100px; 
+    background-color: #fff; 
+    border: 1px solid #ddd; 
+  }
+
 .bg{
     width: 100%;
     position: absolute;

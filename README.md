@@ -14,6 +14,11 @@ Welcome to the College Manali Trip Submission Form project! This project is buil
 - [Project Structure](#project-structure)
 - [Working Of ChatBot](#working-of-chatbot)
 - [Deployment Screenshots](#deployment-screenshots)
+  - [Service 1](#service-1)
+  - [Service 2](#service-2)
+  - [Service 3](#service-3)
+  - [Service 4](#service-4)
+
 - [Project Demo](#project-demo)
 
 ## Introduction
@@ -67,10 +72,10 @@ Azure Static Web Apps is utilized to host the web application, providing a moder
 
 ## Deployment Screenshots
 
-### Azure Static Web Apps
-### Azure Storage Container
-### Azure Blob Storage
-### Azure Bot Services
+### Service 1
+### Service 2
+### Service 3
+### Service 4
 
 ## Project Demo
 
